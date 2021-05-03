@@ -1,0 +1,62 @@
+{
+  "1000": {
+    "name": "Abdella",
+    "age": 15,
+    "grade": 9
+  },
+  "1001": {
+    "name": "Hafsa",
+    "age": 19,
+    "grade": 12
+  },
+  "1002": {
+    "name": "Akrem",
+    "age": 14,
+    "grade": 9
+  },
+  "1003": {
+    "name": "Pam",
+    "age": 16,
+    "grade": 10
+  },
+  "1004": {
+    "name": "John",
+    "age": 17,
+    "grade": 11
+  },
+  "1005": {
+    "name": "Ahmed",
+    "age": 12,
+    "grade": 12
+  },
+  "1008": {
+    "name": "Ahmed",
+    "age": 10,
+    "grade": 5
+  },
+  "1009": {
+    "name": "Rajas",
+    "age": 16,
+    "grade": 11
+  },
+  "1010": {
+    "name": "Solomon",
+    "age": 20,
+    "grade": 12
+  },
+  "1011": {
+    "name": "Takele",
+    "age": 12,
+    "grade": 12
+  },
+  "1012": {
+    "name": "Rummessa",
+    "age": 11,
+    "grade": 6
+  },
+  "1013": {
+    "name": "Usmi",
+    "age": 7,
+    "grade": 1
+  }
+}
