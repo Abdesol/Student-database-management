@@ -84,7 +84,7 @@ Student Name: Ahmed
         Grade: 5
 ```
 
-## This is how it works!
+<h2>This is how it works!</h2>
 
 ## To run the program:
 ```
@@ -92,7 +92,7 @@ Student Name: Ahmed
 2. Extract the file.
 3. Run the exe file.
 ```
-### Note: Don't take the exe file from here alone it depends on those other files and make sure you have .net 5.0 installed!!
+<h1><b>Note: Don't take the exe file from here alone it depends on those other files and make sure you have .net 5.0 installed!!</b></h1>
 
 ## To check the code:
 ```
