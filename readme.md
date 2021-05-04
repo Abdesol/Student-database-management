@@ -92,7 +92,7 @@ Student Name: Ahmed
 2. Extract the file.
 3. Run the exe file.
 ```
-<h1><b>Note: Don't take the exe file from here alone it depends on those other files and make sure you have .net 5.0 installed!!</b></h1>
+<h2>Note: Don't take the exe file from here alone it depends on those other files and make sure you have .net 5.0 installed!!</h2>
 
 ## To check the code:
 ```
